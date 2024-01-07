@@ -19,10 +19,6 @@ def checkWord(word) -> bool:
             print(f"{let} IS NOT ALLOWED")
             return False
     return True
-
-
-def get_random_word():#Denisa
-    return 0
 def processWord(word):
     #word = get_random_word()
     randWord = "SNAKE"
